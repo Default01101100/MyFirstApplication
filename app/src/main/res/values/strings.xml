@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="tvSaludo">Hola Mundo</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvPass">Contraseña</string>
+
+    <string name="etUsuarioHint">Ingrese Usuario</string>
+    <string name="etPassHint">Ingrese Contraseña</string>
+
+    <string name="btnIngresar">Iniciar sesion</string>
+
+
+
+
+
+    <string name="tvUsu">Usuario actual</string>
+    <string name="etUsuarioActual"></string>
+
+    <string name="etUsua"></string>
+    <string name="etContra"></string>
+    <string name="etNombre"></string>
+    <string name="etCorreo"></string>
+    <string name="etNumber"></string>
+
+    <string name="etEda"></string>
+
+
+
+
+
+
+
+</resources>
